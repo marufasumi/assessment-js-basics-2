@@ -1,0 +1,253 @@
+Extra Credit: Company Stack Research
+1.Identify 3 software or technology companies the interest you.
+
+2.Conduct research to figure out some or all of the elements of each company’s technology stack. Check job openings/job descriptions, engineering blogs, and anything else that may have information about what the company uses to write/build it’s software products.
+
+3.Record your findings in a google doc. If you can find information about why the company chose that stack, include that as well.
+
+4.Save your files and push them to GitHub with your code.
+
+# Tech stack of three software and technology companies of my interest
+1.SALESFORCE
+Tech Stack:
+##Analytics:
+Taboola, Twitter Ads, Google Tag Manager, Splunk, and MuleSoft are some of the popular tools that Salesforce uses.
+##Application Hosting:
+Heroku, Amazon Web
+##Application Utilities:
+Salesforce is using the following application tools and software.
+oneTrust,Okta
+
+##Assetes and Media:
+Salesforce is using the following media tools and software.
+Cloudflare,Fastly,Akamai,jsDelivr
+
+##Back Office:
+Salesforce is using the following administrative tools and software.
+Workday
+
+##Collaboration:
+Salesforce is using the following collaboration tools and software.
+DocuSign,Slack,Jira,Confluence,Webex,Balsamiq,UXPin
+
+##Communications:
+Salesforce is using the following communication tools and software.
+Mailgun,Mandrill,Twilio
+
+##Data Stores:
+Salesforce is using the following data storage tools and software.
+Splunk,MuleSoft,PostgreSQL,Kafka,RabbitMQ,Cloudant,ClearDB
+
+##Design:
+Salesforce is using the following development tools and software.
+Google Fonts
+
+##Development
+Salesforce is using the following development tools and software.
+Sauce Labs,Cloud9 IDE,Bitbucket,Kubernetes,Helm,Terraform,Webpack,Puppet
+
+##Languages & Frameworks:
+Spring, Foundation,Javascript,Python,HTML5,Java,CSS3,PHP,C#,Ruby,Go,C++,Rust,Linux,TypeScript
+
+##Libraries:
+React,Modernizr,Moment.js,Lodash,videojs
+
+##Marketing and Sales Tools:
+Taboola,Twitter Ads,Salesforce,InVision,Vidyard,Adroll,Pardot,Google Ads
+
+##Monitoring:
+New Relic,Datadog,StillAlive
+
+##Payments:
+Salesforce is using the following payment tools and software.
+Stripe,Recurly,Zuora
+
+
+2.REDDIT
+Reddit tech stack
+Apache Spark, Apache Flink, Druid, Pig, and Selenium are some of the popular tools that Reddit uses.
+
+Application Hosting
+Reddit is using the following application hosting tools and software.
+
+Amazon EC2,Google Cloud Platform,Google Compute Engine,NGINX,Gunicorn
+
+Application Utilities
+Reddit is using the following application tools and software.
+
+
+Amazon Route 53,Embedly,scikit-learn,Transifex
+
+Assets and Media
+Reddit is using the following media tools and software.
+
+Fastly
+
+Back Office
+Reddit is using the following administrative tools and software.
+Greenhouse
+
+##Collaboration
+Reddit is using the following collaboration tools and software.
+Jira
+
+##Communications
+Reddit is using the following communication tools and software.
+Amazon SNS,Twilio
+
+##Data Stores
+Reddit is using the following data storage tools and software.
+
+Apache Spark,Apache Flink,Druid,Pig,Amazon S3,PostgreSQL,Memcached,Cassandr,Hadoop,HBase,Redis,Kafka,RabbitMQ,Amazon SQS,Airflow
+
+##Development
+Reddit is using the following development tools and software.
+
+Selenium,GitHub,Kubernetes,PhantomJS,Terraform,AWS CloudFormation,Jest,Cypress,Mocha,Chai,HAProxy,Ansible,Chef,Cucumber,Docker
+
+##Languages & Frameworks
+Reddit is using the following programming tools and software.
+
+Node.js,Backbone.js,JavaScript,Python,HTML5,Java,CSS 3,Kotlin,Markdown,Swift,C++,C,Scala,Objective-C,R Language,Flask,Ubuntu,Linux,GraphQL,TypeScript
+
+##Libraries
+Reddit is using the following programming tools and software.
+Plotly.js,NumPy,Pandas,React,jQuery,UnderscoreRedux
+
+##Marketing and Sales Tools
+Reddit is using the following marketing and sales tools and software.
+Zendesk
+
+##Monitoring
+Reddit is using the following monitoring tools and software.
+Sentry
+Logstash
+Pingdom
+
+##Payments
+Reddit is using the following payment tools and software.
+Stripe
+
+3.SPOTIFY
+
+Spotify tech stack
+Optimize, Facebook Ads, Twitter Ads, Google Tag Manager, and Amazon EC2 are some of the popular tools that Spotify uses.
+
+##Analytics
+Spotify is using the following analytics tools and software.
+Optimize
+Google Tag Manager
+Google Analytics
+Facebook Pixel
+Hotjar
+
+##Application Hosting
+Spotify is using the following application hosting tools and software.
+Amazon EC2
+Google Cloud Platform
+NGINX
+Amazon Web Services (AWS)
+
+##Application Utilities
+Spotify is using the following application tools and software.
+OneTrust
+Okta
+TensorFlow
+Kubeflow
+Google Cloud Dataflow
+TestFlight
+Dyn
+
+##Assets and Media
+Spotify is using the following media tools and software.
+Amazon CloudFront
+Fastly
+Akamai
+
+##Back Office
+Spotify is using the following administrative tools and software.
+Lever
+Microsoft Excel
+
+##Collaboration
+Spotify is using the following collaboration tools and software.
+Jira
+Confluence
+Blossom
+
+##Communications
+Spotify is using the following communication tools and software.
+SendGrid
+
+##Data Stores
+Spotify is using the following data storage tools and software.
+Amazon S3
+PostgreSQL
+Cassandra
+Hadoop
+Kafka
+Google Cloud Bigtable
+Apache Storm
+Apache Beam
+Google BigQuery
+
+##Design
+Spotify is using the following design tools and software.
+Lookback
+
+##Development
+Spotify is using the following development tools and software.
+Helios
+Percy
+Babel
+Webpack
+Docker
+Apache CloudStack
+
+##Languages & Frameworks
+Spotify is using the following programming tools and software.
+Node.js
+Next.js
+Bootstrap
+JavaScript
+Python
+HTML5
+Java
+CSS 3
+PHP
+Kotlin
+Swift
+C++
+Scala
+Objective-C
+GraphQL
+gRPC
+TypeScript
+
+##Libraries
+Spotify is using the following programming tools and software.
+React
+Svelte
+Modernizr
+
+##Marketing and Sales Tools
+Spotify is using the following marketing and sales tools and software.
+Facebook Ads
+Twitter Ads
+Salesforce
+Mailchimp
+Desk.com
+WordPress
+Qualaroo
+Adroll
+Google Ads
+
+##Mobile
+Spotify is using the following mobile tools and software.
+Branch Metrics
+Hub Framework
+
+##Monitoring
+Spotify is using the following monitoring tools and software.
+Sentry
+
